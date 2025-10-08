@@ -1,0 +1,2 @@
+cd D:\STM32SmartV2\LearnSTM32\F103C6T6_SERVO\Debug
+objcopy -O ihex F103C6T6_SERVO.elf F103C6T6_SERVO.hex
